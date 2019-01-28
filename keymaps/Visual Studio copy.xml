@@ -1,0 +1,90 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ActivateMongoExplorerToolWindow">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="BuildCurrentProject">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="alt f5" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="Debug" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="EditorCreateRectangularSelection">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="Jdbc.RunSqlScript" />
+  <action id="Pause">
+    <keyboard-shortcut first-keystroke="ctrl pause" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="shift alt q" />
+  </action>
+  <action id="PublishSelectionAction">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="PublishSolutionAction">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+  <action id="ReSharperNavigateTo">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="alt dead_grave" />
+  </action>
+  <action id="RebuildSelectionAction">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="Refresh" />
+  <action id="ReloadInBrowserAction">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+  </action>
+  <action id="RiderPublish">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="Run" />
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
+  <action id="ShowBookmarks" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
+  <action id="UML.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+    <keyboard-shortcut first-keystroke="ctrl alt f11" />
+  </action>
+  <action id="WD.UploadCurrentRemoteFileAction" />
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+  <action id="XDebugger.AttachToProcess">
+    <keyboard-shortcut first-keystroke="ctrl alt f5" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="com.jetbrains.rider.interactive.csi.SendToCSharpInteractive" />
+  <action id="hg4idea.QPushAction" />
+</keymap>
