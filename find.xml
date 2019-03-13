@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Contexts\CustomerIdentifiers\C3.CustomerIdentifiers.Core\Repositories\IExternalDataRepository.cs'" />
-    <option name="defaultScopeName" value="File '...\Contexts\CustomerIdentifiers\C3.CustomerIdentifiers.Core\Repositories\IExternalDataRepository.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Contexts\CustomerIdentifiers\C3.CustomerIdentifiers.Core\Repositories\IExternalDataRepository.cs'" />
+    <option name="customScope" value="File '...\Presentation\AdminWeb\C3.AdminWeb.Website\Areas\CustomerIdentifiers\CreateCardPool\CreateUserEmployeeForm.cs'" />
+    <option name="defaultScopeName" value="File '...\Presentation\AdminWeb\C3.AdminWeb.Website\Areas\CustomerIdentifiers\CreateCardPool\CreateUserEmployeeForm.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Presentation\AdminWeb\C3.AdminWeb.Website\Areas\CustomerIdentifiers\CreateCardPool\CreateUserEmployeeForm.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
