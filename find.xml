@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Presentation\AdminWeb\C3.AdminWeb.Website\Areas\CustomerIdentifiers\CreateCardPool\CreateUserEmployeeForm.cs'" />
-    <option name="defaultScopeName" value="File '...\Presentation\AdminWeb\C3.AdminWeb.Website\Areas\CustomerIdentifiers\CreateCardPool\CreateUserEmployeeForm.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Presentation\AdminWeb\C3.AdminWeb.Website\Areas\CustomerIdentifiers\CreateCardPool\CreateUserEmployeeForm.cs'" />
+    <option name="customScope" value="File '...\Presentation\AdminWeb\C3.AdminWeb.Website\Areas\CustomerIdentifiers\CreateCardPool\CreateCardPoolController.cs'" />
+    <option name="defaultScopeName" value="File '...\Presentation\AdminWeb\C3.AdminWeb.Website\Areas\CustomerIdentifiers\CreateCardPool\CreateCardPoolController.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Presentation\AdminWeb\C3.AdminWeb.Website\Areas\CustomerIdentifiers\CreateCardPool\CreateCardPoolController.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
