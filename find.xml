@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'C3.AdminWeb.Website'" />
-    <option name="defaultScopeName" value="Project 'C3.AdminWeb.Website'" />
+    <option name="customScope" value="Project 'C3.Activities.Core'" />
+    <option name="defaultScopeName" value="Project 'C3.Activities.Core'" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'C3.AdminWeb.Website'" />
+    <option name="SEARCH_SCOPE" value="Project 'C3.Activities.Core'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
