@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
@@ -63,6 +71,14 @@
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Rerun 'C3.MerchantApp.Hosts.WebApi'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Split Vertically">
+        <Item>
+          <IdeaActionID>SplitVertically</IdeaActionID>
+          <ShortCut>'Ctrl+\'</ShortCut>
+          <Description>Split Vertically</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'C3.Activity.Hosts.WebApi'">
