@@ -57,6 +57,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebuild Selected Projects">
+        <Item>
+          <IdeaActionID>RebuildSelectionAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+R'</ShortCut>
+          <Description>Rebuild Selected Projects</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'C3.Activity.Hosts.WebApi'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -102,7 +110,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'C3.MerchantApp.Hosts.WebApi'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
