@@ -145,12 +145,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+    </option>
+    <option name="suppressed">
       <Statistic Action="Stop...">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
     </option>
