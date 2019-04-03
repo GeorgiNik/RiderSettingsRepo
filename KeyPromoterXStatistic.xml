@@ -145,6 +145,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'AdjustActivitySucceeds #2'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Shift+F5'</ShortCut>
+          <Description>Stop 'AdjustActivitySucceeds #2'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'C3.Activity.Hosts.WebApi'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
