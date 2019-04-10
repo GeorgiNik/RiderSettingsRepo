@@ -14,7 +14,7 @@
           <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Build</Description>
-          <Count>1</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Code Cleanup...">
@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -129,6 +129,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Enter' or 'Ctrl+K, F' or 'Ctrl+K, Ctrl+F' or 'Ctrl+K, D' or 'Ctrl+K, Ctrl+D'</ShortCut>
+          <Description>Reformat Code</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'C3.Activity.Hosts.WebApi'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -182,7 +190,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+U, R' or 'Ctrl+U, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -230,7 +238,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'C3.MerchantApp.Hosts.WebApi'</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
