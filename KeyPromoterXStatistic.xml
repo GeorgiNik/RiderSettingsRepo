@@ -257,6 +257,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Unit Tests">
+        <Item>
+          <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8' or 'Alt+Shift+8'</ShortCut>
+          <Description>Unit Tests</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Stop...">
