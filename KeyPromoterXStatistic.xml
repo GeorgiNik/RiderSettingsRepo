@@ -14,7 +14,7 @@
           <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Build</Description>
-          <Count>15</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Selected Projects">
@@ -214,7 +214,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -318,7 +318,7 @@
           <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
           <ShortCut>'Alt+8' or 'Alt+Shift+8'</ShortCut>
           <Description>Unit Tests</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
     </option>
