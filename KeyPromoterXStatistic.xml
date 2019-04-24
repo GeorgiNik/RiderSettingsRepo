@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Build Selected Projects">
+        <Item>
+          <IdeaActionID>BuildSelection</IdeaActionID>
+          <ShortCut>'Alt+B'</ShortCut>
+          <Description>Build Selected Projects</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Explorer">
         <Item>
           <IdeaActionID>ActivateExplorerToolWindow</IdeaActionID>
