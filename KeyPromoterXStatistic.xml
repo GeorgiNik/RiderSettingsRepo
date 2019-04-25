@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Build">
+        <Item>
+          <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
+          <ShortCut>'Alt+0'</ShortCut>
+          <Description>Build</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Selected Projects">
         <Item>
           <IdeaActionID>BuildSelection</IdeaActionID>
@@ -38,7 +46,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Rerun 'C3.PayoutAccounts.Hosts.Worker'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'C3.Refunds.Hosts.WebApi'">
@@ -46,6 +54,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Rerun 'C3.Refunds.Hosts.WebApi'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Unit Tests">
+        <Item>
+          <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8' or 'Alt+Shift+8'</ShortCut>
+          <Description>Unit Tests</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
