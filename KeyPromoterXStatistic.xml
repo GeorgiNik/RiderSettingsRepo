@@ -102,7 +102,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+U, R' or 'Ctrl+U, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Solution or Project...">
@@ -158,7 +158,7 @@
           <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
           <ShortCut>'Alt+8' or 'Alt+Shift+8'</ShortCut>
           <Description>Unit Tests</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
