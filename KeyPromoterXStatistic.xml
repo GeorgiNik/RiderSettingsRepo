@@ -57,6 +57,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Mute Breakpoints">
+        <Item>
+          <IdeaActionID>XDebugger.MuteBreakpoints</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+F10'</ShortCut>
+          <Description>Mute Breakpoints</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rebuild Selected Projects">
         <Item>
           <IdeaActionID>RebuildSelectionAction</IdeaActionID>
