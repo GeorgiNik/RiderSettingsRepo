@@ -6,7 +6,7 @@
           <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Build</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Selected Projects">
@@ -62,6 +62,14 @@
           <IdeaActionID>ActivateExplorerToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Explorer</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find">
+        <Item>
+          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
+          <ShortCut>'Alt+3' or 'Ctrl+Alt+F12'</ShortCut>
+          <Description>Find</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -153,12 +161,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run Current Session">
+        <Item>
+          <IdeaActionID>RiderUnitTestRunCurrentSessionAction</IdeaActionID>
+          <ShortCut>'Ctrl+U, Y' or 'Ctrl+U, Ctrl+Y'</ShortCut>
+          <Description>Run Current Session</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run Unit Tests">
         <Item>
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+U, R' or 'Ctrl+U, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Solution or Project...">
@@ -254,7 +270,7 @@
           <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
           <ShortCut>'Alt+8' or 'Alt+Shift+8'</ShortCut>
           <Description>Unit Tests</Description>
-          <Count>23</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
