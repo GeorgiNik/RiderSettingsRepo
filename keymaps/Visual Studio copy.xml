@@ -5,6 +5,9 @@
   <action id="BuildCurrentProject">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="BuildSelection">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="ChangesView.UnshelveSilently" />
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="alt f5" />
