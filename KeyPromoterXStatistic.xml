@@ -6,7 +6,7 @@
           <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Build</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Selected Projects">
@@ -190,7 +190,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Rerun 'C3.PayoutAccounts.Hosts.WebApi'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'C3.PayoutAccounts.Hosts.Worker'">
