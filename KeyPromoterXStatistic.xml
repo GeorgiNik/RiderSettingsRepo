@@ -25,6 +25,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Cancel">
+        <Item>
+          <IdeaActionID>BuildSolutionAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+B'</ShortCut>
+          <Description>Cancel</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Code Cleanup...">
         <Item>
           <IdeaActionID>CodeCleanup</IdeaActionID>
@@ -294,7 +302,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'C3.AdminWeb.Website'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'C3.PayoutAccounts.Hosts.WebApi'">
