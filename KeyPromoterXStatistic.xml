@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'Alt+B'</ShortCut>
           <Description>Build Selected Projects</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Solution">
@@ -233,6 +233,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Update-Protos.ps1'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Rerun 'Update-Protos.ps1'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'UpdateManagementFeeTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -367,6 +375,14 @@
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'ManualPostingInDb_UseDbVersion'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Update-Protos.ps1'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Shift+F5'</ShortCut>
+          <Description>Stop 'Update-Protos.ps1'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'UpdateManagementFeeTest'">
