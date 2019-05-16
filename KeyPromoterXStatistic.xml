@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'Alt+B'</ShortCut>
           <Description>Build Selected Projects</Description>
-          <Count>58</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Solution">
@@ -278,7 +278,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+U, R' or 'Ctrl+U, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>45</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Solution or Project...">
@@ -399,6 +399,14 @@
           <ShortCut>'Ctrl+U, S' or 'Ctrl+U, Ctrl+S'</ShortCut>
           <Description>Stop Execution</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
