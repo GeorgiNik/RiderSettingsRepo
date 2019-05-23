@@ -310,7 +310,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+U, R' or 'Ctrl+U, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Solution or Project...">
@@ -462,7 +462,7 @@
           <IdeaActionID>RiderUnitTestSessionAbortAction</IdeaActionID>
           <ShortCut>'Ctrl+U, S' or 'Ctrl+U, Ctrl+S'</ShortCut>
           <Description>Stop Execution</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
