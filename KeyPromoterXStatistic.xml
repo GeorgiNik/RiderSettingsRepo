@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'Alt+B'</ShortCut>
           <Description>Build Selected Projects</Description>
-          <Count>76</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Solution">
@@ -174,7 +174,7 @@
           <IdeaActionID>RebuildSelectionAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+R'</ShortCut>
           <Description>Rebuild Selected Projects</Description>
-          <Count>9</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Solution">
@@ -199,6 +199,14 @@
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Rerun 'Activity_takes_Eigenkunde_agreement'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'C3.AdminWeb.Website'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Rerun 'C3.AdminWeb.Website'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'C3.Payout.Hosts.WebApi'">
@@ -231,6 +239,14 @@
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Rerun 'C3.PayoutAccounts.Hosts.Worker'</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'C3.Permissions.Hosts.WebApi'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Rerun 'C3.Permissions.Hosts.WebApi'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'C3.Refunds.Hosts.WebApi'">
@@ -350,7 +366,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'C3.AdminWeb.Website'</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'C3.Billing.Hosts.Worker'">
@@ -406,7 +422,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'C3.Permissions.Hosts.WebApi'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'C3.Refunds.Hosts.WebApi'">
