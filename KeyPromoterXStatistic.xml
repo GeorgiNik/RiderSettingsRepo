@@ -401,6 +401,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'C3.Permissions.Hosts.WebApi'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Shift+F5'</ShortCut>
+          <Description>Stop 'C3.Permissions.Hosts.WebApi'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'C3.Refunds.Hosts.WebApi'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
