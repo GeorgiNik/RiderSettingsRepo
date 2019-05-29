@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'Alt+B'</ShortCut>
           <Description>Build Selected Projects</Description>
-          <Count>81</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Solution">
@@ -38,7 +38,7 @@
           <IdeaActionID>CodeCleanup</IdeaActionID>
           <ShortCut>'Ctrl+E, C' or 'Ctrl+E, Ctrl+C'</ShortCut>
           <Description>Code Cleanup...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -183,6 +183,14 @@
           <ShortCut>'Ctrl+Alt+R'</ShortCut>
           <Description>Rebuild Solution</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refactor This...">
+        <Item>
+          <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+R'</ShortCut>
+          <Description>Refactor This...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
