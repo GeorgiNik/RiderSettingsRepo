@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'Alt+B'</ShortCut>
           <Description>Build Selected Projects</Description>
-          <Count>127</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Solution">
@@ -406,7 +406,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+U, R' or 'Ctrl+U, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>104</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Intention Actions">
