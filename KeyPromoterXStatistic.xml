@@ -406,7 +406,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+U, R' or 'Ctrl+U, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>106</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Intention Actions">
