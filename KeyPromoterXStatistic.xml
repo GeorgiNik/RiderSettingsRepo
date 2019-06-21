@@ -206,7 +206,7 @@
           <IdeaActionID>RebuildSelectionAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+R'</ShortCut>
           <Description>Rebuild Selected Projects</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Solution">
@@ -686,7 +686,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Tests">
@@ -694,7 +694,7 @@
           <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
           <ShortCut>'Alt+8' or 'Alt+Shift+8'</ShortCut>
           <Description>Unit Tests</Description>
-          <Count>99</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
