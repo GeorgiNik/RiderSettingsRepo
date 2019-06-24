@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'Alt+B'</ShortCut>
           <Description>Build Selected Projects</Description>
-          <Count>128</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Solution">
@@ -22,7 +22,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'Alt+B'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cancel">
@@ -414,7 +414,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+U, R' or 'Ctrl+U, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>114</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Value...">
