@@ -417,6 +417,14 @@
           <Count>114</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Set Value...">
+        <Item>
+          <IdeaActionID>XDebugger.SetValue</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Set Value...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Intention Actions">
         <Item>
           <IdeaActionID>ShowIntentionActions</IdeaActionID>
@@ -470,7 +478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'C3.AdminWeb.Website'</Description>
-          <Count>34</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'C3.Billing.Hosts.Worker'">
