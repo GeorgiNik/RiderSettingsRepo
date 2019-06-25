@@ -414,7 +414,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+U, R' or 'Ctrl+U, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>117</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Value...">
