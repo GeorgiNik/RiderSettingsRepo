@@ -110,7 +110,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'C3.SepaWriter.csproj'">
@@ -214,7 +214,7 @@
           <IdeaActionID>RebuildSelectionAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+R'</ShortCut>
           <Description>Rebuild Solution</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refactor This...">
@@ -230,7 +230,7 @@
           <IdeaActionID>RenameRiderItem</IdeaActionID>
           <ShortCut>'Ctrl+R, R' or 'Ctrl+R, Ctrl+R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>5</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Activity_takes_Eigenkunde_agreement'">
@@ -430,7 +430,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+U, R' or 'Ctrl+U, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>119</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Value...">
