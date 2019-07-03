@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSelection</IdeaActionID>
           <ShortCut>'Alt+B'</ShortCut>
           <Description>Build Selected Projects</Description>
-          <Count>131</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Solution">
@@ -166,7 +166,7 @@
           <IdeaActionID>NewRiderProject</IdeaActionID>
           <ShortCut>'Ctrl+Shift+N'</ShortCut>
           <Description>New Project...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="NuGet">
