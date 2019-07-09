@@ -249,6 +249,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'All tests from &lt;Tests&gt;\&lt;Lambda.Functions.Tests&gt;'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Rerun 'All tests from &lt;Tests&gt;\&lt;Lambda.Functions.Tests&gt;'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'C3.AdminWeb.Website'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -479,6 +487,14 @@
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'All tests from &lt;Presentation&gt;\&lt;PublicApi&gt;'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All tests from &lt;Tests&gt;\&lt;Lambda.Functions.Tests&gt;'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Shift+F5'</ShortCut>
+          <Description>Stop 'All tests from &lt;Tests&gt;\&lt;Lambda.Functions.Tests&gt;'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All tests from Solution'">
@@ -734,7 +750,7 @@
           <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
           <ShortCut>'Alt+8' or 'Alt+Shift+8'</ShortCut>
           <Description>Unit Tests</Description>
-          <Count>110</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
