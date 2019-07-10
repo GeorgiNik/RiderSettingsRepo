@@ -35,6 +35,6 @@
     <entry key="ide.win.file.chooser.native" value="true" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
     <entry key="ide.win.frame.decoration" value="true" />
-    <entry key="rider.enable.designer.winForms" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
