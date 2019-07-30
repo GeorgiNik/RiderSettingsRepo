@@ -28,18 +28,7 @@
   <action id="BuildCurrentProject">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
-  <action id="BuildSelection">
-    <keyboard-shortcut first-keystroke="alt b" />
-  </action>
   <action id="ChangesView.UnshelveSilently" />
-  <action id="ChooseDebugConfiguration">
-    <keyboard-shortcut first-keystroke="alt f5" />
-  </action>
-  <action id="ChooseRunConfiguration">
-    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
-    <keyboard-shortcut first-keystroke="ctrl f5" />
-  </action>
-  <action id="Debug" />
   <action id="Diff.FocusOppositePane" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -65,7 +54,6 @@
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
-  <action id="Jdbc.RunSqlScript" />
   <action id="Pause">
     <keyboard-shortcut first-keystroke="ctrl pause" />
   </action>
@@ -92,9 +80,6 @@
   <action id="RiderPublish">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
-  <action id="Run" />
-  <action id="RunClass" />
-  <action id="RunDashboard.Run" />
   <action id="ShowBookmarks" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
