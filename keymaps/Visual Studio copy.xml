@@ -54,6 +54,9 @@
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
+  <action id="ImportSettings">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
   <action id="Pause">
     <keyboard-shortcut first-keystroke="ctrl pause" />
   </action>
