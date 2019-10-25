@@ -1,0 +1,5 @@
+<application>
+  <component name="CsvEditorSettings">
+    <option name="ZERO_BASED_COLUMN_NUMBERING" value="true" />
+  </component>
+</application>
