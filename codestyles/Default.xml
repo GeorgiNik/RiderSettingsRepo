@@ -5,7 +5,6 @@
     <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
     <option name="TABULARIZE" value="false" />
     <option name="WHITE_SPACES_OUTSIDE_QUOTES" value="false" />
-    <option name="SEPARATOR_INDEX" value="1" />
   </CsvCodeStyleSettings>
   <stylecop>
     <option name="ENABLED" value="true" />
