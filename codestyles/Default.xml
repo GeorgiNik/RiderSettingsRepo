@@ -1,5 +1,11 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="160" />
+  <CsvCodeStyleSettings>
+    <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
+    <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
+    <option name="TABULARIZE" value="false" />
+    <option name="WHITE_SPACES_OUTSIDE_QUOTES" value="false" />
+  </CsvCodeStyleSettings>
   <stylecop>
     <option name="ENABLED" value="true" />
   </stylecop>

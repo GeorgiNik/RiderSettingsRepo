@@ -2,9 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="0e55cb" />
+    <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="44863240:167bc0c3231:-8000" />
-    <option name="version" value="3.10.0" />
+    <option name="version" value="4.11.5" />
   </component>
 </application>
