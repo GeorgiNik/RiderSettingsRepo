@@ -51,9 +51,7 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="ctrl t" />
-  </action>
+  <action id="GotoChangedFile" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
@@ -86,6 +84,7 @@
   <action id="RiderPublish">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="ShowBookmarks" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
