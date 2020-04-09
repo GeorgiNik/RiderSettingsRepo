@@ -5,6 +5,8 @@
   </action>
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
     <keyboard-shortcut first-keystroke="meta x" />
   </action>
   <action id="$Paste">
@@ -49,14 +51,10 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
-  </action>
-  <action id="GotoTest" />
+  <action id="GotoChangedFile" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
-  <action id="Images.ShowThumbnails" />
   <action id="ImportSettings">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
@@ -86,10 +84,7 @@
   <action id="RiderPublish">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
-  <action id="RunDashboard.ShowConfigurations" />
-  <action id="SelectIn">
-    <keyboard-shortcut first-keystroke="shift alt l" />
-  </action>
+  <action id="ServiceView.ShowServices" />
   <action id="ShowBookmarks" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
@@ -127,6 +122,5 @@
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="com.jetbrains.rider.interactive.csi.SendToCSharpInteractive" />
-  <action id="context.load" />
   <action id="hg4idea.QPushAction" />
 </keymap>
