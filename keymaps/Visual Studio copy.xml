@@ -81,9 +81,6 @@
   <action id="ReloadInBrowserAction">
     <keyboard-shortcut first-keystroke="ctrl f8" />
   </action>
-  <action id="RiderNewSolution">
-    <keyboard-shortcut first-keystroke="alt help" />
-  </action>
   <action id="RiderPublish">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
