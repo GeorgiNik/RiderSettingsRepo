@@ -29,6 +29,9 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
+  <action id="CopyElement">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
