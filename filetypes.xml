@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="MELS_valid" type="AUTO_DETECTED" />
       <mapping pattern="invalid_empty_MELS" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="Native" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
