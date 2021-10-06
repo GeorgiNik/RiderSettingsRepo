@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Elexon.SAA.MVTLM.Calculation'" />
-    <option name="defaultScopeName" value="Project 'Elexon.SAA.MVTLM.Calculation'" />
-    <option name="SEARCH_SCOPE" value="Project 'Elexon.SAA.MVTLM.Calculation'" />
+    <option name="customScope" value="Project 'Elexon.SAA.MVTLM.Ingestion'" />
+    <option name="defaultScopeName" value="Project 'Elexon.SAA.MVTLM.Ingestion'" />
+    <option name="SEARCH_SCOPE" value="Project 'Elexon.SAA.MVTLM.Ingestion'" />
     <mask>*.cs</mask>
     <mask>*.feature</mask>
     <mask>*.json</mask>
