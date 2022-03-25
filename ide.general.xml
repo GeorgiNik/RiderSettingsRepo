@@ -36,7 +36,7 @@
       <map>
         <entry key="Memory" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
-        <entry key="RiderMemory" value="true" />
+        <entry key="RoslynIcon" value="false" />
         <entry key="TypeScriptInfo" value="false" />
         <entry key="mtStatusBar" value="false" />
       </map>
