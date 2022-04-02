@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Client publish" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\dotnet\dotnet.exe" />
+      <option name="PARAMETERS" value="publish" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/2Beat/Desktop/RIT_3/Client/Web/RecommendIT.Client.Web.App" />
+    </exec>
+  </tool>
+</toolSet>
