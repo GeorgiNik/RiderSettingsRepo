@@ -108,6 +108,9 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="shift meta h" second-keystroke="shift meta h" />
+  </action>
   <action id="UML.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
