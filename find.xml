@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/Elexon.Helix.VAS.Calculation.Tests/Calculations/UnallocatedDemand/UnallocatedDemandPipelineStepTests.cs'" />
-    <option name="defaultScopeName" value="File '…/Elexon.Helix.VAS.Calculation.Tests/Calculations/UnallocatedDemand/UnallocatedDemandPipelineStepTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…/Elexon.Helix.VAS.Calculation.Tests/Calculations/UnallocatedDemand/UnallocatedDemandPipelineStepTests.cs'" />
+    <option name="customScope" value="File '…/Elexon.Helix.VAS.Calculation.Tests/Calculations/ActiveWeightedExport/ActiveWeightedExportPipelineStepTests.cs'" />
+    <option name="defaultScopeName" value="File '…/Elexon.Helix.VAS.Calculation.Tests/Calculations/ActiveWeightedExport/ActiveWeightedExportPipelineStepTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…/Elexon.Helix.VAS.Calculation.Tests/Calculations/ActiveWeightedExport/ActiveWeightedExportPipelineStepTests.cs'" />
     <mask>*.cs</mask>
     <mask>*.feature</mask>
     <mask>*.json</mask>
