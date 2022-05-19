@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Elexon.Helix.VAS.DAH.ApiClient.Tests'" />
-    <option name="defaultScopeName" value="Project 'Elexon.Helix.VAS.DAH.ApiClient.Tests'" />
-    <option name="SEARCH_SCOPE" value="Project 'Elexon.Helix.VAS.DAH.ApiClient.Tests'" />
+    <option name="customScope" value="File '…/Elexon.Helix.VAS.Calculation/Calculations/GspGroupSettlementPeriodConsumption/GspGroupCccImportConsumptionKey.cs'" />
+    <option name="defaultScopeName" value="File '…/Elexon.Helix.VAS.Calculation/Calculations/GspGroupSettlementPeriodConsumption/GspGroupCccImportConsumptionKey.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…/Elexon.Helix.VAS.Calculation/Calculations/GspGroupSettlementPeriodConsumption/GspGroupCccImportConsumptionKey.cs'" />
     <mask>*.cs</mask>
     <mask>*.feature</mask>
     <mask>*.json</mask>
