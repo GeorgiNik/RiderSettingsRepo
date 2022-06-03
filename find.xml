@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Elexon.Helix.VAS.DAH.ApiClient.Tests'" />
-    <option name="defaultScopeName" value="Project 'Elexon.Helix.VAS.DAH.ApiClient.Tests'" />
+    <option name="customScope" value="File '…/Elexon.Helix.VAS.Calculation/PipelineSteps/PublishCalculationResults/PublishCalculationResultsPipelineStep.cs'" />
+    <option name="defaultScopeName" value="File '…/Elexon.Helix.VAS.Calculation/PipelineSteps/PublishCalculationResults/PublishCalculationResultsPipelineStep.cs'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Elexon.Helix.VAS.DAH.ApiClient.Tests'" />
+    <option name="SEARCH_SCOPE" value="File '…/Elexon.Helix.VAS.Calculation/PipelineSteps/PublishCalculationResults/PublishCalculationResultsPipelineStep.cs'" />
     <mask>*.cs</mask>
     <mask>*.feature</mask>
     <mask>*.json</mask>
