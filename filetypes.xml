@@ -6,6 +6,7 @@
       <mapping pattern="invalid_empty_MELS" type="AUTO_DETECTED" />
       <mapping pattern="MELS_valid" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="Native" />
+      <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
