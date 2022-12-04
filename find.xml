@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/Domain/More.Domain/Messages/Files/Switch/Msg13SM01/ValidateRequest.cs'" />
-    <option name="defaultScopeName" value="File '…/Domain/More.Domain/Messages/Files/Switch/Msg13SM01/ValidateRequest.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…/Domain/More.Domain/Messages/Files/Switch/Msg13SM01/ValidateRequest.cs'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.cs</mask>
     <mask>*.feature</mask>
     <mask>*.json</mask>
