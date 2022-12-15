@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'More.Domain'" />
+    <option name="defaultScopeName" value="Project 'More.Domain'" />
+    <option name="SEARCH_SCOPE" value="Project 'More.Domain'" />
     <mask>*.cs</mask>
     <mask>*.feature</mask>
     <mask>*.json</mask>
