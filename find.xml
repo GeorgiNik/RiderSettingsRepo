@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Elexon.Helix.VAS.Calculation'" />
-    <option name="defaultScopeName" value="Project 'Elexon.Helix.VAS.Calculation'" />
-    <option name="SEARCH_SCOPE" value="Project 'Elexon.Helix.VAS.Calculation'" />
+    <option name="customScope" value="Project 'Elexon.Helix.VAS.Calculation.Tests'" />
+    <option name="defaultScopeName" value="Project 'Elexon.Helix.VAS.Calculation.Tests'" />
+    <option name="SEARCH_SCOPE" value="Project 'Elexon.Helix.VAS.Calculation.Tests'" />
     <mask>*.cs</mask>
     <mask>*.feature</mask>
     <mask>*.json</mask>
