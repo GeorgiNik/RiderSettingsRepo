@@ -22,6 +22,9 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="ActivateAvro/ParquetViewerToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta alt a" />
+  </action>
   <action id="ActivateMongoExplorerToolWindow">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
