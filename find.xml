@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'More.Functions.UnitTests'" />
-    <option name="defaultScopeName" value="Project 'More.Functions.UnitTests'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'More.Functions.UnitTests'" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.cs</mask>
     <mask>*.feature</mask>
     <mask>*.json</mask>
